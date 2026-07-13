@@ -7,7 +7,7 @@ A loan application Excel template with programmatic data validation rules and fo
 | File | Description |
 |------|-------------|
 | `Day26_Practice.xlsx` | Input file with 3 sheets — Loan form, Expense data, Reference lists |
-| `Day26_Excel_Data_Validation_Protection.py` | Python script that adds all validation rules and sheet protection |
+| `Day26_Excel_Data_validation & protection.py` | Python script that adds all validation rules and sheet protection |
 | `Day26_Output.xlsx` | Final output with validation and protection applied |
 
 ## What the Script Does
